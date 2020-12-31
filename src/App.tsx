@@ -6,7 +6,7 @@ import NavComponent from './NavComponent';
 
 function App() {
   return (
-    <NavComponent></NavComponent>
+    <Menu></Menu>
   );
 }
 
