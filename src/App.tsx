@@ -5,7 +5,7 @@ import component from './Component';
 
 function App() {
   return (
-    <Component>
+    <Component />
   );
 }
 
