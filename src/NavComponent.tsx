@@ -25,7 +25,7 @@ import {
   DeploymentsGroup,
   KibanaNavLinks,
   SecurityGroup,
-} from './collapsible_nav_list';
+} from './Menu';
 
 const TopLinks: EuiPinnableListGroupItemProps[] = [
   {
